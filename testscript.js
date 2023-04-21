@@ -3,5 +3,5 @@ console.log(x);
 
 // wait yeah
 
-let n = 289;
+let n = 1;
 console.log(n);
